@@ -3,7 +3,7 @@ Simple website that allows you to book a spot in a sports center.
 
 Written in the concept of MVC without any fremework.
 
-Used technologies:
+Technologies:
 PHP7,
 SQL,
 HTML5,
